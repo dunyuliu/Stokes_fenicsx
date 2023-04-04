@@ -17,6 +17,7 @@ dependencies:
   - pip
   - gmsh
   - numpy
+  - pyvirtualdisplay
   - pip:
     - gmsh
 #    - numpy
